@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: snow;
+}
+.head{
+    width: 80%;
+    height: 200px;
+    background-color: rgb(107, 242, 247) ;
+    margin: 0px auto;
+}
+.foot{
+    width: 80%;
+    height: 600px;
+    background-color: rgb(41, 209, 181);
+    margin: 0 auto;
+    color: gold;
+    text-align: center;
+}
