@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.head{
+    width: 80%;
+    height: 200px;
+    margin: 0px auto;
+}
+.foot{
+    width: 80%;
+    height: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
